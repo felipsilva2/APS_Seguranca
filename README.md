@@ -29,7 +29,7 @@ Para descriptografar um arquivo siga os passos abaixos:
 2) Inclua o arquivo que deseja descriptografar no diretório: APS_Seguranca/Arquivos/
 3) Insira o seguindo comando dentro do diretório "APS_Seguranca/bin/debug/netcoreapp.2.2/": 
 
-dotnet APS_Seguranca.dll "Endereço do arquivo que deseja criptografar" DECRYPT
+dotnet APS_Seguranca.dll "Endereço do arquivo que deseja descriptograr" DECRYPT
 
 Exemplo: dotnet APS_Seguranca.dll ~/Documents/Repository/APS_Seguranca/Arquivos/Teste.png.aes DECRYPT
 
