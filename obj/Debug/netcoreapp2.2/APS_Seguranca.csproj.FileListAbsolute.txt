@@ -1,0 +1,12 @@
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/bin/Debug/netcoreapp2.2/APS_Seguranca.deps.json
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/bin/Debug/netcoreapp2.2/APS_Seguranca.runtimeconfig.json
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/bin/Debug/netcoreapp2.2/APS_Seguranca.runtimeconfig.dev.json
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/bin/Debug/netcoreapp2.2/APS_Seguranca.dll
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/bin/Debug/netcoreapp2.2/APS_Seguranca.pdb
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.csprojAssemblyReference.cache
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.csproj.CoreCompileInputs.cache
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.AssemblyInfoInputs.cache
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.AssemblyInfo.cs
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.dll
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.pdb
+/Users/feliperodrigues/Documents/Repository/APS_Seguranca/obj/Debug/netcoreapp2.2/APS_Seguranca.genruntimeconfig.cache
