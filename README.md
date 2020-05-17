@@ -1,8 +1,8 @@
 # APS de Segurança da informação
 
-Tecnologia utilizada: .Net Core 2.2.
-Método de criptografia: simétrica de Rijndael.
-Chave utilizada para embaralhar os bytes: 000102030405060708090A0B0C0D0E0F
+1) Tecnologia utilizada: .Net Core 2.2.
+2) Método de criptografia: simétrica de Rijndael.
+3) Chave utilizada para embaralhar os bytes: 000102030405060708090A0B0C0D0E0F
 
 Componentes utilizado para o projeto consta no próprio .Net core.
 
